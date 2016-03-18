@@ -1,0 +1,13 @@
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\SMSPIManager.exe.config
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\SMSPIManager.exe
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\SMSPIManager.pdb
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.Form1.resources
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.Properties.Resources.resources
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.csproj.GenerateResource.Cache
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.exe
+c:\users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\obj\Debug\SMSPIManager.pdb
+C:\Users\hamza\Documents\Visual Studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\RestSharp.dll
+C:\Users\hamza\Documents\Visual Studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\RestSharp.xml
+C:\Users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\documents\visual studio 2013\Projects\SMSPIManager\SMSPIManager\bin\Debug\Newtonsoft.Json.xml
